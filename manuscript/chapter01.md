@@ -2,6 +2,7 @@
   * NoDesign
   * NoDocumentation
   * NoInterruptions
+  * NoDates
   * KanbanIsMoreAgile, KanbanBecauseScrumIsHard
   * DevelopSprintsThenTestSprints
   * KanbanBecauseNoSprints
